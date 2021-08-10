@@ -25,7 +25,7 @@
 
   <a href="https://www.linkedin.com/in/nicole-pimenta/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:n.alcantara07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <img src = "https://camo.githubusercontent.com/8a0f84184f42bfa158b242b4561e4f7ce17183cc4684258fa3eb33993ca0dc63/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f756c6534766863593178454b512f67697068792e676966 ">
+  <img  align = "center"  alt = "catCoding" src = "https://camo.githubusercontent.com/8a0f84184f42bfa158b242b4561e4f7ce17183cc4684258fa3eb33993ca0dc63/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f756c6534766863593178454b512f67697068792e676966 " height: "100" >
 </div> 
   
 
