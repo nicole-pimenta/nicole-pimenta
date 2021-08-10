@@ -3,11 +3,10 @@
 - 🌱 I’m currently learning React and Typescript
 - 🙋🏽‍♀️ I’m interested in Front-End Development 
 
-  ##
 
  <div style="display: inline_block" ><br>
   <a href="https://github.com/nicole-pimenta">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=nicole-pimenta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=nicole-pimenta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img  align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-pimenta&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
   
