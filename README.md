@@ -1,7 +1,11 @@
 ### Hello, I'm Nicole  👋  
 
-- 🌱 I’m currently learning React and Typescript
-- 🙋🏽‍♀️ I’m interested in Front-End Development 
+- I'm a full stack sofwtare developer student at Kenzie Academy Brasil and 
+- I’m currently learning React and Typescript .  
+- I’m  interested in Front-End Development 
+- I have a background in business administration and a graduate degree in finance. 
+ 
+
 
 
  <div style="display: inline_block" ><br>
