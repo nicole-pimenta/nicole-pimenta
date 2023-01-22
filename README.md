@@ -1,4 +1,4 @@
-###  Olá < Visitante /> sou a Nicole, e esse é um pouco sobre mim  👋  
+###  Olá sou a Nicole, e esse é um pouco sobre mim  👋  
 
 <li>📖 Estudante do curso <a>Análise e Desenvolvimento de Sistemas</a>,</li> 
 <li>📘 Formada no curso de <a href="https://www.linkedin.com/in/nicole-pimenta/overlay/education/703212613/multiple-media-viewer/?profileId=ACoAABb1-eoBsjxPrTy0s-IzOzP2lmrSoSlPARc&treasuryMediaId=1635488703612" rel="noopener">Desenvolvimento Web Full Stack pela </a> na Kenzie Academy Brasil,</li>
