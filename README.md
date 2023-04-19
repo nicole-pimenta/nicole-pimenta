@@ -1,7 +1,7 @@
 ###  Olá sou a Nicole, e esse é um pouco sobre mim  👋  
 
 <li>📖 Estudante do curso Análise e Desenvolvimento de Sistemas pela Estácio de Sá;</li> 
-<li>📘 Formada no curso de <a href="https://www.linkedin.com/in/nicole-pimenta/overlay/education/703212613/multiple-media-viewer/?profileId=ACoAABb1-eoBsjxPrTy0s-IzOzP2lmrSoSlPARc&treasuryMediaId=1635488703612" rel="noopener">Desenvolvimento Web Full Stack pela </a> na Kenzie Academy Brasil;</li>
+<li>📘 Formada no curso de <a href="https://drive.google.com/file/d/14am9D8epYGSPMUJQNvVoBrqCTqkQEvUp/view?usp=sharing" rel="noopener">Desenvolvimento Web Full Stack pela </a> na Kenzie Academy Brasil;</li>
 <li>📘 Formada no curso de <a rel="noopener">Administração de Empresas com especialização em Finanças e Controladoria ;</a></li>
 <li> 💼 Atualmente atuo como Instrutora de ensino front end, com foco em React na empresa <a href= 'https://kenzie.com.br/?utm_term=kenzie%20academy&utm_campaign=INSC-PER-2022-TERMOS-MARCA-SEARCH&utm_source=adwords&utm_medium=google-ads&hsa_acc=2166776305&hsa_cam=15853756022&hsa_grp=137371409172&hsa_ad=574454391791&hsa_src=g&gclid=CjwKCAiA2rOeBhAsEiwA2Pl7QyhwBEM0aNI03UkEbMSRBMePkUYZHc4GLU5eVF9LSSKU1NYo6AnaIBoCD8YQAvD_BwE' rel="noopener" >Kenzie Academy Brasil.</a></li>
 
