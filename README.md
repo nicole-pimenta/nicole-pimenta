@@ -1,4 +1,10 @@
-###   Olá sou Nicole, e esse é um pouco sobre mim  👋  
+ 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=27&center=true&vCenter=true&width=600&height=100&lines=Olá,+Sou+a+Nicole!;Front-end+Developer...<3"></a>
+</p>
+
+
 <ul>
 <li>📖 Estudante do curso Análise e Desenvolvimento de Sistemas pela Estácio de Sá;</li> 
 <li>📘 Formada no curso de <a href="https://drive.google.com/file/d/1HJH-IXPKwqyk7JHMm9nyBlqNGZvIG2PF/view?usp=sharing" target="_blank" rel="noopener noreferrer">Desenvolvimento Web Full Stack </a> pela Kenzie Academy Brasil;</li>
