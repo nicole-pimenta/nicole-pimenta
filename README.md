@@ -11,15 +11,21 @@
   </div>
 
 ### Algumas das minhas habilidades: 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-0081CB?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  ##
-  
+ ##
+ 
+![Redux](https://img.shields.io/badge/Redux-27338e?style=for-the-badge&logo=redux&logoColor=white)
+![Context Api](https://img.shields.io/badge/Context--Api-563D7C?style=for-the-badge&logo=react&logoColor=black)
+![React Hooks](https://img.shields.io/badge/React--Hooks-red?style=for-the-badge&logo=react&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React--Hook--Form-gold?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-444?style=for-the-badge&logo=styled-components&logoColor=white) 
 
 ### Você também pode me encontrar aqui:
 <div> 
